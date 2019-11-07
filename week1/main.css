@@ -1,5 +1,5 @@
 h1 {
-    
+
 }
 body{
  text-align: center;
@@ -8,6 +8,10 @@ img{
  max-width: 20%;
  height: auto;
  margin: 40px 0px 0px 0px;
- border: 7px solid white;
+ border: 7px solid black;
  border-radius: 20px;
 }
+li {
+ margin: 2px;
+}
+
